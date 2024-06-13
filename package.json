@@ -1,0 +1,19 @@
+{
+  "name": "mini-calculator",
+  "version": "1.0.0",
+  "description": "This is sample mini calculator in Typescript prompt based",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
